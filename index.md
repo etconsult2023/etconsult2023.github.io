@@ -3,18 +3,50 @@
 </p>
 
 
-## Peer-Reviewed Publications
-- **Mathematics & ICT** `[Click me!]`
-- `[Education Studies](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies)` 
-- Social Sciences
-- Languages
-- VOTEC
-- Science
-  
-## Non-Peer Reviewed Publications
-## Conference Papers & Proceedings
-## Books
+# Peer-Reviewed Publications
+
+### [Mathematics & ICT](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies)
+### [Education Studies](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Social Sciences](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Languages](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [VOTEC](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Sciences](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+
+# Non-Peer Reviewed Publications
+
+### [Mathematics & ICT](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies)
+### [Education Studies](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Social Sciences](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Languages](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [VOTEC](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Sciences](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+
+# Conference Papers & Proceedings
+
+### [Mathematics & ICT](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies)
+### [Education Studies](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Social Sciences](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Languages](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [VOTEC](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Sciences](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+
+# Books
+
+### [Mathematics & ICT](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies)
+### [Education Studies](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Social Sciences](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Languages](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [VOTEC](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Sciences](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+
 ## Important Websites
+
+### [Mathematics & ICT](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies)
+### [Education Studies](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Social Sciences](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Languages](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [VOTEC](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
+### [Sciences](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
 
 
 
