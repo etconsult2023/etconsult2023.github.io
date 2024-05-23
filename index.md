@@ -1,17 +1,17 @@
 
-# Mathematics/ICT
+## Peer-Reviewed Publications
+- **Mathematics & ICT** `[Click me!]`
+- Education Studies
+- Social Sciences
+- Languages
+- VOTEC
+- Science
+  
+## Non-Peer Reviewed Publications
+## Conference Papers & Proceedings
+## Books
+## Important Websites
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-# Social Science
-
-
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 
