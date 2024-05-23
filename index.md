@@ -5,7 +5,7 @@
 
 ## Peer-Reviewed Publications
 - **Mathematics & ICT** `[Click me!]`
-- `[Education Studies]()` 
+- `[Education Studies](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies)` 
 - Social Sciences
 - Languages
 - VOTEC
