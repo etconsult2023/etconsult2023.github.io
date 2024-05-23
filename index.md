@@ -48,6 +48,17 @@
 ### [VOTEC](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
 ### [Sciences](https://github.com/etconsult2023/etconsult2023.github.io/tree/main/articles/educ_studies) 
 
+# Table
+
+|   Peer-Reviewed Publications	| Peer-Reviewed Publications  	|  Peer-Reviewed Publications 	|   Peer-Reviewed Publications	|   Peer-Reviewed Publications	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+
 
 
 
