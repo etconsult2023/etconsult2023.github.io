@@ -1,5 +1,5 @@
 title: DACE Research Resources Hub
 description: This site contains books, peer-reviewed publications, journal articles, conference proceedings, important websites, etc. to enhance research
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
