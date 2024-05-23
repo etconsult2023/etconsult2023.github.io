@@ -5,7 +5,7 @@
 
 ## Peer-Reviewed Publications
 - **Mathematics & ICT** `[Click me!]`
-- `Education Studies [Click me!]()` 
+- `[Education Studies]()` 
 - Social Sciences
 - Languages
 - VOTEC
