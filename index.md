@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/df/e3/55/dfe3555d73f4054eb01bc36f5e55dc0d.jpg" width="500" title="hover text">
-</p>
 
 
 # Peer-Reviewed Publications
