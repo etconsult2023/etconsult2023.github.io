@@ -1,4 +1,4 @@
-
+# This site is a collaboration between Dambai College of Education and Scholars/Researchers at Southeast Missouri State University, USA
 
 # Books
 
